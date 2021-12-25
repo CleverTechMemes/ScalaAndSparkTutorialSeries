@@ -1,0 +1,1209 @@
+﻿{
+  "paragraphs": [
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377125905_150779863",
+      "id": "paragraph_1640377125905_150779863",
+      "dateCreated": "2021-12-24T20:18:45+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:287",
+      "text": "20",
+      "dateUpdated": "2021-12-24T20:19:31+0000",
+      "dateFinished": "2021-12-24T20:19:31+0000",
+      "dateStarted": "2021-12-24T20:19:31+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres2\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 20\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377140144_186852987",
+      "id": "paragraph_1640377140144_186852987",
+      "dateCreated": "2021-12-24T20:19:00+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:433",
+      "text": "2.5",
+      "dateUpdated": "2021-12-24T20:19:40+0000",
+      "dateFinished": "2021-12-24T20:19:40+0000",
+      "dateStarted": "2021-12-24T20:19:40+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres3\u001b[0m: \u001b[1m\u001b[32mDouble\u001b[0m = 2.5\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377180177_374993715",
+      "id": "paragraph_1640377180177_374993715",
+      "dateCreated": "2021-12-24T20:19:40+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:554",
+      "text": "30",
+      "dateUpdated": "2021-12-24T20:20:04+0000",
+      "dateFinished": "2021-12-24T20:20:04+0000",
+      "dateStarted": "2021-12-24T20:20:04+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres4\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 30\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377204045_401595760",
+      "id": "paragraph_1640377204045_401595760",
+      "dateCreated": "2021-12-24T20:20:04+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:648",
+      "text": "res2 + res4",
+      "dateUpdated": "2021-12-24T20:25:01+0000",
+      "dateFinished": "2021-12-24T20:25:02+0000",
+      "dateStarted": "2021-12-24T20:25:01+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres19\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 50\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377503465_272123376",
+      "id": "paragraph_1640377503465_272123376",
+      "dateCreated": "2021-12-24T20:25:03+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1541",
+      "text": "res2 - res4",
+      "dateUpdated": "2021-12-24T20:25:10+0000",
+      "dateFinished": "2021-12-24T20:25:10+0000",
+      "dateStarted": "2021-12-24T20:25:10+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres20\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = -10\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377212515_1210296878",
+      "id": "paragraph_1640377212515_1210296878",
+      "dateCreated": "2021-12-24T20:20:12+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:742",
+      "text": "\"Hello\"",
+      "dateUpdated": "2021-12-24T20:20:23+0000",
+      "dateFinished": "2021-12-24T20:20:23+0000",
+      "dateStarted": "2021-12-24T20:20:23+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres6\u001b[0m: \u001b[1m\u001b[32mString\u001b[0m = Hello\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377223344_1539601685",
+      "id": "paragraph_1640377223344_1539601685",
+      "dateCreated": "2021-12-24T20:20:23+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:836",
+      "text": "30 / 6",
+      "dateUpdated": "2021-12-24T20:20:54+0000",
+      "dateFinished": "2021-12-24T20:20:54+0000",
+      "dateStarted": "2021-12-24T20:20:54+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres8\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 5\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377244551_981147034",
+      "id": "paragraph_1640377244551_981147034",
+      "dateCreated": "2021-12-24T20:20:44+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:930",
+      "text": "1.0/2.0",
+      "dateUpdated": "2021-12-24T20:22:03+0000",
+      "dateFinished": "2021-12-24T20:22:04+0000",
+      "dateStarted": "2021-12-24T20:22:03+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres14\u001b[0m: \u001b[1m\u001b[32mDouble\u001b[0m = 0.5\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377271014_1412312044",
+      "id": "paragraph_1640377271014_1412312044",
+      "dateCreated": "2021-12-24T20:21:11+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1048",
+      "text": "2*3",
+      "dateUpdated": "2021-12-24T20:22:34+0000",
+      "dateFinished": "2021-12-24T20:22:34+0000",
+      "dateStarted": "2021-12-24T20:22:34+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres15\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 6\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377354067_1283308146",
+      "id": "paragraph_1640377354067_1283308146",
+      "dateCreated": "2021-12-24T20:22:34+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1262",
+      "text": "// 2 ^ 3\nmath.pow(2,3)",
+      "dateUpdated": "2021-12-24T20:24:44+0000",
+      "dateFinished": "2021-12-24T20:24:44+0000",
+      "dateStarted": "2021-12-24T20:24:44+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres18\u001b[0m: \u001b[1m\u001b[32mDouble\u001b[0m = 8.0\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640377381274_1294382856",
+      "id": "paragraph_1640377381274_1294382856",
+      "dateCreated": "2021-12-24T20:23:01+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1356",
+      "text": "val x: Int = 5\nval y: Int = 6\n\n",
+      "dateUpdated": "2021-12-24T20:43:07+0000",
+      "dateFinished": "2021-12-24T20:43:07+0000",
+      "dateStarted": "2021-12-24T20:43:07+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mx\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 5\n\u001b[1m\u001b[34my\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 6\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378599469_1360247115",
+      "id": "paragraph_1640378599469_1360247115",
+      "dateCreated": "2021-12-24T20:43:19+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1849",
+      "text": "val x = 5\nval y = 6",
+      "dateUpdated": "2021-12-24T20:43:26+0000",
+      "dateFinished": "2021-12-24T20:43:26+0000",
+      "dateStarted": "2021-12-24T20:43:26+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mx\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 5\n\u001b[1m\u001b[34my\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 6\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378572953_843939346",
+      "id": "paragraph_1640378572953_843939346",
+      "dateCreated": "2021-12-24T20:42:52+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1635",
+      "text": "print(x + y)",
+      "dateUpdated": "2021-12-24T20:43:28+0000",
+      "dateFinished": "2021-12-24T20:43:28+0000",
+      "dateStarted": "2021-12-24T20:43:28+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "11"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378589806_1017970696",
+      "id": "paragraph_1640378589806_1017970696",
+      "dateCreated": "2021-12-24T20:43:09+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1753",
+      "text": "var z : Int = 10\n",
+      "dateUpdated": "2021-12-24T20:44:29+0000",
+      "dateFinished": "2021-12-24T20:44:29+0000",
+      "dateStarted": "2021-12-24T20:44:29+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mz\u001b[0m: \u001b[1m\u001b[32mInt\u001b[0m = 10\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378645887_584000315",
+      "id": "paragraph_1640378645887_584000315",
+      "dateCreated": "2021-12-24T20:44:05+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:1969",
+      "text": "z = 20",
+      "dateUpdated": "2021-12-24T20:44:34+0000",
+      "dateFinished": "2021-12-24T20:44:34+0000",
+      "dateStarted": "2021-12-24T20:44:34+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "z: Int = 20\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378674128_849560376",
+      "id": "paragraph_1640378674128_849560376",
+      "dateCreated": "2021-12-24T20:44:34+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2079",
+      "text": "val welcomeString: String = \"Hello and Welcome\"",
+      "dateUpdated": "2021-12-24T20:45:00+0000",
+      "dateFinished": "2021-12-24T20:45:00+0000",
+      "dateStarted": "2021-12-24T20:45:00+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mwelcomeString\u001b[0m: \u001b[1m\u001b[32mString\u001b[0m = Hello and Welcome\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378700815_1734314586",
+      "id": "paragraph_1640378700815_1734314586",
+      "dateCreated": "2021-12-24T20:45:00+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2173",
+      "text": "print(welcomeString)",
+      "dateUpdated": "2021-12-24T20:45:12+0000",
+      "dateFinished": "2021-12-24T20:45:12+0000",
+      "dateStarted": "2021-12-24T20:45:12+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Hello and Welcome"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378712611_1245080113",
+      "id": "paragraph_1640378712611_1245080113",
+      "dateCreated": "2021-12-24T20:45:12+0000",
+      "status": "ERROR",
+      "focus": true,
+      "$$hashKey": "object:2267",
+      "text": "welcomeString = \"hello\"",
+      "dateUpdated": "2021-12-24T20:45:28+0000",
+      "dateFinished": "2021-12-24T20:45:28+0000",
+      "dateStarted": "2021-12-24T20:45:28+0000",
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "<console>:25: \u001b[31merror: \u001b[0mreassignment to val\n       welcomeString = \"hello\"\n                     ^\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378728824_1337301985",
+      "id": "paragraph_1640378728824_1337301985",
+      "dateCreated": "2021-12-24T20:45:28+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2363",
+      "text": "true",
+      "dateUpdated": "2021-12-24T20:48:56+0000",
+      "dateFinished": "2021-12-24T20:48:57+0000",
+      "dateStarted": "2021-12-24T20:48:56+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres27\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = true\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378925550_881704235",
+      "id": "paragraph_1640378925550_881704235",
+      "dateCreated": "2021-12-24T20:48:45+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2448",
+      "text": "false",
+      "dateUpdated": "2021-12-24T20:49:03+0000",
+      "dateFinished": "2021-12-24T20:49:03+0000",
+      "dateStarted": "2021-12-24T20:49:03+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres28\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = false\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378943231_2137779073",
+      "id": "paragraph_1640378943231_2137779073",
+      "dateCreated": "2021-12-24T20:49:03+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2590",
+      "text": "10 < 20",
+      "dateUpdated": "2021-12-24T20:49:12+0000",
+      "dateFinished": "2021-12-24T20:49:12+0000",
+      "dateStarted": "2021-12-24T20:49:12+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres29\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = true\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378952762_1639488641",
+      "id": "paragraph_1640378952762_1639488641",
+      "dateCreated": "2021-12-24T20:49:12+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2684",
+      "text": "11 > 20",
+      "dateUpdated": "2021-12-24T20:49:23+0000",
+      "dateFinished": "2021-12-24T20:49:24+0000",
+      "dateStarted": "2021-12-24T20:49:23+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres30\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = false\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378963926_756265183",
+      "id": "paragraph_1640378963926_756265183",
+      "dateCreated": "2021-12-24T20:49:23+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2778",
+      "text": "val booleanVariable: Boolean = true",
+      "dateUpdated": "2021-12-24T20:49:40+0000",
+      "dateFinished": "2021-12-24T20:49:40+0000",
+      "dateStarted": "2021-12-24T20:49:40+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mbooleanVariable\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = true\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378980812_689724804",
+      "id": "paragraph_1640378980812_689724804",
+      "dateCreated": "2021-12-24T20:49:40+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:2872",
+      "text": "booleanVariable == true",
+      "dateUpdated": "2021-12-24T20:49:53+0000",
+      "dateFinished": "2021-12-24T20:49:53+0000",
+      "dateStarted": "2021-12-24T20:49:53+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres31\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = true\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640378993442_82680057",
+      "id": "paragraph_1640378993442_82680057",
+      "dateCreated": "2021-12-24T20:49:53+0000",
+      "status": "ERROR",
+      "focus": true,
+      "$$hashKey": "object:2966",
+      "text": "val 10Number = 10",
+      "dateUpdated": "2021-12-24T20:50:14+0000",
+      "dateFinished": "2021-12-24T20:50:14+0000",
+      "dateStarted": "2021-12-24T20:50:14+0000",
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "<console>:1: \u001b[31merror: \u001b[0mInvalid literal number\nval 10Number = 10\n    ^\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640379014479_1521699806",
+      "id": "paragraph_1640379014479_1521699806",
+      "dateCreated": "2021-12-24T20:50:14+0000",
+      "status": "ERROR",
+      "focus": true,
+      "$$hashKey": "object:3060",
+      "text": "val number.one = 10",
+      "dateUpdated": "2021-12-24T20:50:24+0000",
+      "dateFinished": "2021-12-24T20:50:24+0000",
+      "dateStarted": "2021-12-24T20:50:24+0000",
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "<console>:23: \u001b[31merror: \u001b[0mnot found: value number\n       val number.one = 10\n           ^\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640379024638_1037122195",
+      "id": "paragraph_1640379024638_1037122195",
+      "dateCreated": "2021-12-24T20:50:24+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:3145",
+      "text": "10 >= 10",
+      "dateUpdated": "2021-12-24T20:50:53+0000",
+      "dateFinished": "2021-12-24T20:50:53+0000",
+      "dateStarted": "2021-12-24T20:50:53+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres32\u001b[0m: \u001b[1m\u001b[32mBoolean\u001b[0m = true\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1640379053483_2049641575",
+      "id": "paragraph_1640379053483_2049641575",
+      "dateCreated": "2021-12-24T20:50:53+0000",
+      "status": "READY",
+      "focus": true,
+      "$$hashKey": "object:3230"
+    }
+  ],
+  "name": "Scala and Spark Tutorial Series - Scala Basics - Part 1",
+  "id": "2GPTPGGEP",
+  "defaultInterpreterGroup": "spark",
+  "version": "0.10.0",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false,
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {},
+  "path": "/Scala and Spark Tutorial Series - Scala Basics - Part 1"
+}
